@@ -2,7 +2,7 @@
 For the purposes of reproducing our methods:
 
 ## Data
-Firstly, in the data folder, there are a number of template files. These files represent what our data looks like, however we are unable to share this because the data contain personal information for the participants. The data are a combination of wearable sensor readings such as mean heart rate and mean accelerometer reading, a number of self-reported metrics such as anxiety level and mental engagement level, results from a regularly administered N-back cognitive performance test, and spoken transcripts of the user talking about their day. This is contained in the combined_output_template.csv file. The combined_output_templated.json is to contain the same data, however the json format is better suited for the llm file upload. 
+Firstly, in the data folder, there are a number of template files. These files represent what our data looks like, however we are unable to share this because the data contain personal information for the participants. The data are a combination of wearable sensor readings such as mean heart rate and mean accelerometer reading, a number of self-reported metrics such as anxiety level and mental engagement level, results from a regularly administered N-back (1-back in this case) cognitive performance test, and spoken transcripts of the user talking about their day. This is contained in the combined_output_template.csv file. The combined_output_templated.json is to contain the same data, however the json format is better suited for the llm file upload. 
 Similarly, the tmb_template.csv and json files contain the performance of the user on a number of the Test-My-Brain cognitive health assessments for which we used one set of test results per user.
 
 ## Scripts
