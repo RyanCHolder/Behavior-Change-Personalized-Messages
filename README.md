@@ -11,6 +11,7 @@ Neural network suggestions:
 * Use embed.py to generate embeddings for the user data.
 * Use model_gen.py in train mode to create the neural network model
 * Use nn_guess.py to get behavior suggestions from the neural network
+* Use message_templates.py to create a basic message suggestion to the user based on the neural network's output
 LLM suggestions:
 * Use prep_vector_store.py to create a vector store and upload the two json files
 * Use llm_guess.py to create the behavior suggestions from the llm
